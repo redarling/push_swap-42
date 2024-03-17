@@ -1,4 +1,4 @@
-# 🚀 Push Swap
+# 🚀 push_swap
 
 ## Project Description
 Push Swap is a project that implements a stack sorting algorithm. The main task of the project is to sort an array of integers using a limited set of operations on two stacks.
