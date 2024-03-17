@@ -5,8 +5,10 @@ Push Swap is a project that implements a stack sorting algorithm. The main task 
 
 ## 🛠️ Installation Instructions
 1. Clone the repository using the command:
-
-https://github.com/redarling/Push_Swap-42.git
+   
+|----------------------------------------------|
+| https://github.com/redarling/Push_Swap-42.git|
+|----------------------------------------------|
 
 2. Navigate to the project directory:
 
