@@ -6,24 +6,24 @@ Push Swap is a project that implements a stack sorting algorithm. The main task 
 ## 🛠️ Installation Instructions
 1. Clone the repository using the command:
    
-| https://github.com/redarling/Push_Swap-42.git |
+      https://github.com/redarling/Push_Swap-42.git
 
 2. Navigate to the project directory:
 
-| cd Push_Swap-42 |
+      cd Push_Swap-42 
 
 3. Compile the project:
 
-make
+      make
 
 ## 💻 Usage
 1. Run the program using the command:
 
-./push_swap num1 num2 num3 ...
+      ./push_swap num1 num2 num3 ...
 
 2. Example usage:
 
-./push_swap 4 2 7 1 3 -1 -5 10 0
+      ./push_swap 4 2 7 1 3 -1 -5 10 0
 
 3. The program will output the sequence of operations required to sort the numbers.
 
